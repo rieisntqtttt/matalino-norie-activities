@@ -1,0 +1,71 @@
+
+
+.container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #c78a8a;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+label {
+    font-size: 30px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    font-size: 20px;
+    background-color: #709f72;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+button:hover {
+    background-color: #45a049;
+
+}
+
+.LabelStyle {
+
+            background-color:rgb(158, 113, 200);
+            
+}
+
+
+.forgot:link {
+    font-size: 30px;
+    color:rgb(135, 38, 61);
+    font-style: none;
+}
+
+
+#gen {
+    font-size: 20px;
+}
+
+.register {
+    font-size:30px;
+    color: rgb(71, 10, 10);
+    font-style: none;
+}
+
+#error {
+    color:brown;
+    font-size: 15px;
+}
+
