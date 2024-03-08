@@ -53,6 +53,21 @@ button:hover {
     font-style: none;
 }
 
+.forgot:visited {
+
+}
+
+.forgot:active {
+
+}
+
+.forgot:hover {
+    font-size: 10px;
+    color:#334a05;
+
+}
+
+
 
 #gen {
     font-size: 20px;
